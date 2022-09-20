@@ -1,2 +1,2 @@
 # JavaScriptCampTask2
-This ,s basic java code.
+This is basic java code.
